@@ -1257,6 +1257,21 @@
     ],
     "media": [
         {
+            "id": "live",
+            "title": "",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
+            "videoURL": "https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@705591_all/playlist.m3u8",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                ""
+            ],
+            "description": "live feeds"
+        },
+     
+        {
             "id": 35548,
             "title": "Resisting Retaliation",
             "pubDate": "",
@@ -1270,6 +1285,7 @@
             ],
             "description": ""
         },
+
         {
             "id": 35510,
             "title": "Proof",

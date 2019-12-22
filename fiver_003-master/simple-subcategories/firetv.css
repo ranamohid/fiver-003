@@ -55,12 +55,12 @@ div {
 
 .app-logo {
   position: absolute;
-  bottom: -7px;
+  top: -10px;
   left: 150px; }
 
 .leftnav-main-container {
   position: absolute;
-  top: 0;
+  top: 5px;
   left: 0;
   height: 00%;
   width: 00%;
